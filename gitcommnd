@@ -1,0 +1,9 @@
+git --version
+git init
+git add filename
+git commint -m "comments"
+git config --global user.email
+git config --global user.name
+git push repo url branch name
+check in repo
+git checkout branchname
